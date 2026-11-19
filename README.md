@@ -1,0 +1,2 @@
+# SaltRating
+rate salt, dumbass.
